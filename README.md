@@ -31,8 +31,8 @@ Earth To Mars is a website that aims to spread information about humanity's prog
   - Newsletter sign up form.
   - Signup form will register a user for newsletter
 
-- Responsiv Design
-  - Entire webpage is responsiv and will work on resolutions used by Pc, tablet and phone
+- Responsive Design
+  - Entire web page is responsive and will work on resolutions used by Pc, tablet and phone
 
 ## Future Features
 - Ranking list of which private company invests the most in Mars missions
