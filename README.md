@@ -13,17 +13,26 @@ Earth To Mars is a website that aims to spread information about humanity's prog
 ## Features
 
 - Navigation bar
-  -  is dipslaying a navigationbar that will help the user navigate to different sections of the page
+  -  Navigationbar that will help the user navigate to different sections of the page
   - Navigation bar will always be vissible
 
+- Biggest challenges
+   - Three informative boxes with the biggest challenges of populating a new world
+   -
+- Going To Mars
+   - Section with picture and video
+   - Information about today's Mars-missions
+  
 - Footer
   - Footer section will have clickable icons that take the user to different social media pages
   - Footer section will always be vissible
 
 - Newsletter
-  - Eart To Mars have a newslatter sign up form.
+  - Newsletter sign up form.
   - Signup form will register a user for newsletter
 
+- Responsiv Design
+  - Entire webpage is responsiv and will work on resolutions used by Pc, tablet and phone
 
 ## Future Features
 - Ranking list of which private company invests the most in Mars missions
