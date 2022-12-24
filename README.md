@@ -1,12 +1,13 @@
 # Earth To Mars
 
 ## Purpose
+Webadress [Eart To Mars](https://stojj2.github.io/Portfolio-Project-1/)
 
 Earth To Mars is a website that aims to spread information about humanity's progress towards becoming multiplanetary. Most likely planet candidate today is Mars. This website will describe problems that exist today with living on a planet other than Earth and also have a newsletter that sends out exciting news about what is happening on Mars.
 
 ## User Stories
 
-- When looking for information on the website, I would like some navigation bar.
+- When looking for information on the website, I would like some navigation bar
 - When browsing the site thrue a phone i want it to be easy to read
 - As a visiting user, I would like to have a newsletter on Mars activities
 
@@ -18,7 +19,7 @@ Earth To Mars is a website that aims to spread information about humanity's prog
 
 - Biggest challenges
    - Three informative boxes with the biggest challenges of populating a new world
-   -
+   
 - Going To Mars
    - Section with picture and video
    - Information about today's Mars-missions
@@ -40,7 +41,9 @@ Earth To Mars is a website that aims to spread information about humanity's prog
 
 
 ## Fonts and color
-- Webpage will use 
+- Webpage will use three colors F4F1F1, 8B8399 and 5C7AAD. Most text will be black
+
+- Font for the entire webpage is Orbitron
 ## Wireframe
 
   - Homepage
