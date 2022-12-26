@@ -1,12 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;800&family=Russo+One&display=swap');
 
 
-#logo {
-    font-family: 'Orbitron', sans-serif;
-    font-weight: 400;
-    letter-spacing: 10px;
-    float: left;
-    width: 100%;
-    text-align: center;
-    
+/* headings and logo */
+
+body {
+    display: flex;
+    flex-direction: column;
+    padding: 1%;
+    align-items: center;
 }
+
+header {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: 'Orbitron', sans-serif;
+}
+
+
