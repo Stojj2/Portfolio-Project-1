@@ -65,3 +65,4 @@ Earth To Mars is a website that aims to spread information about humanity's prog
 
   - Tracy Staedter for her Mars Exploration [article](https://now.northropgrumman.com/mars-exploration-3-problems-science-needs-to-solve-first/)
   - SpaceX for [information](https://www.spacex.com/human-spaceflight/mars/)
+  - Marca:s Elon Musk [interview](https://www.marca.com/en/lifestyle/us-news/2022/03/19/6236048cca474106568b456d.html)
