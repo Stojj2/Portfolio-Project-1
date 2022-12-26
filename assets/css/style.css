@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;800&family=Russo+One&display=swap');
 
-
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
 /* Body */
 
 body {
@@ -9,6 +13,7 @@ body {
     padding: 1%;
     align-items: center;
     font-family: 'Orbitron', sans-serif;
+    color: black;
 
 }
 
@@ -24,25 +29,36 @@ header {
     display: flex;
     width: 100%;
     flex-direction: column;
-    justify-content: flex-start;
     align-items: center;
-    font-family: 'Orbitron', sans-serif;
-    text-align: center;
-    color: black;
+    padding: 1%;
+}
+
+header a {
+    text-decoration: none;
+    color: #8B8399;
+    padding: 2px;
 }
 
 #logo {
-    letter-spacing: 10px;
+    letter-spacing: 8px;
 }
 nav {
-    width: 50%;
+    width: 300px;
     align-items: center;
-    letter-spacing: 2px;
+    text-align: center;
+}
+#menu li {
+    list-style-type: none;
+    letter-spacing: 1px;
+    padding: 1px;
+    font-size: small;
+    border: solid 1px black;
+    border-radius: 5px;
+    margin: 5px;
 }
 
 #menu {
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
 }
 
