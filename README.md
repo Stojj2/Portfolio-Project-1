@@ -63,4 +63,5 @@ Earth To Mars is a website that aims to spread information about humanity's prog
 
 ## Credit
 
-  - Tracy Staedter for her Mars Exploration [Article](https://now.northropgrumman.com/mars-exploration-3-problems-science-needs-to-solve-first/)
+  - Tracy Staedter for her Mars Exploration [article](https://now.northropgrumman.com/mars-exploration-3-problems-science-needs-to-solve-first/)
+  - SpaceX for [information](https://www.spacex.com/human-spaceflight/mars/)

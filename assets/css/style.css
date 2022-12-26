@@ -8,6 +8,13 @@ body {
     flex-direction: column;
     padding: 1%;
     align-items: center;
+    font-family: 'Orbitron', sans-serif;
+
+}
+
+body > h1, h2, h3 {
+    font-weight: 800;
+
 }
 
 header {
