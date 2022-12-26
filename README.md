@@ -61,4 +61,6 @@ Earth To Mars is a website that aims to spread information about humanity's prog
   - Signup
     - ![Homepage Wireframe](https://github.com/Stojj2/Portfolio-Project-1/blob/main/media/Signup.png?raw=)
 
-  
+## Credit
+
+  - Tracy Staedter for her Mars Exploration [Article](https://now.northropgrumman.com/mars-exploration-3-problems-science-needs-to-solve-first/)
