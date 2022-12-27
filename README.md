@@ -61,6 +61,13 @@ Earth To Mars is a website that aims to spread information about humanity's prog
   - Signup
     - ![Homepage Wireframe](https://github.com/Stojj2/Portfolio-Project-1/blob/main/media/Signup.png?raw=)
 
+## Bugs
+  - Biggest challenges section was vissible behind the nav bar.
+     - Add white color to header section and adding padding-top to biggest challenges section in style.css file
+
+
+
+
 ## Credit
 
   - Tracy Staedter for her Mars Exploration [article](https://now.northropgrumman.com/mars-exploration-3-problems-science-needs-to-solve-first/)

@@ -30,7 +30,10 @@ header {
     width: 100%;
     flex-direction: column;
     align-items: center;
-    padding: 1%;
+    position: fixed;
+    background-color: white;
+    top: 0;
+    border-bottom: 2px solid #8B8399;
 }
 
 header a {
@@ -54,7 +57,13 @@ nav {
     font-size: small;
     border: solid 1px black;
     border-radius: 5px;
-    margin: 5px;
+    margin: 8px;
+    line-height: 20px;
+}
+
+#menu li:hover {
+    border-radius:  10px;
+    font-weight: 800;
 }
 
 #menu {
@@ -62,3 +71,10 @@ nav {
     flex-direction: row;
 }
 
+
+/* Biggest Challenges Section */
+
+#biggest-challenges {
+    padding-top: 100px;
+
+}
