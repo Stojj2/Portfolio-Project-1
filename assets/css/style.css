@@ -23,7 +23,7 @@ body > h1, h2, h3 {
 
 }
 
-/* headings and logo */
+/* heading and nav bar */
 
 header {
     display: flex;
@@ -51,6 +51,8 @@ nav {
     text-align: center;
 }
 #menu li {
+    display: flex;
+    flex: content;
     list-style-type: none;
     letter-spacing: 1px;
     padding: 1px;
@@ -62,7 +64,6 @@ nav {
 }
 
 #menu li:hover {
-    border-radius:  10px;
     font-weight: 800;
 }
 
@@ -76,12 +77,25 @@ nav {
 
 #biggest-challenges {
     padding-top: 100px;
-    background-color: blue;
+    background-color: #E3E0F3;
 
 }
 
 #biggest-challenges div {
-    background-color: white;
+    width: 350px;
+    border: 2px solid grey;
+    margin: 5px;
+    
 }
 
+.color-1 {
+    background-color: ;
+}
 
+.color-2 {
+    background-color: ;
+}
+
+.color-3 {
+    background-color: ;
+}

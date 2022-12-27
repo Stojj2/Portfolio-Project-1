@@ -14,8 +14,9 @@ Earth To Mars is a website that aims to spread information about humanity's prog
 ## Features
 
 - Navigation bar
-  -  Navigationbar that will help the user navigate to different sections of the page
+  - Navigation bar that will help the user navigate to different sections of the page
   - Navigation bar will always be vissible
+  - The buttons on the navigation bar will be highlighted when hovered on
 
 - Biggest challenges
    - Three informative boxes with the biggest challenges of populating a new world
