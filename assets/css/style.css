@@ -141,7 +141,7 @@ footer {
     background-color: #ffffff;
 }
 
-footer>ul {
+.social-media {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
