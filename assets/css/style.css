@@ -63,17 +63,15 @@ header>nav a:hover {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    margin-top: 110px;
+    margin-top: 107px;
     text-align: center;
     font-family: 'Orbitron', sans-serif;
     font-size: 12px;
 }
 
 #biggest-challenges>div {
-    margin: 3px;
     padding: 30px;
     letter-spacing: 1px;
-    border-radius: 10px;
 }
 
 #biggest-challenges h2 {
@@ -90,4 +88,55 @@ header>nav a:hover {
 
 #water {
     background-color: #6B81C3;
+}
+
+
+/* Going To Mars section */
+
+#going-to-mars {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 12px;
+    background-color: #E2D0B1;
+}
+
+#going-to-mars>div {
+    margin: 3px;
+    padding: 30px;
+    letter-spacing: 1px;
+    border-radius: 10px;
+}
+
+
+
+/* Sign Up section */
+
+
+#sign-up {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 12px;
+    background-color: #E2D0B1;
+}
+
+
+
+
+
+/* Footer section */
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 12px;
+    background-color: #E2D0B1;
 }
