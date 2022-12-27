@@ -1,7 +1,7 @@
 # Earth To Mars
 
 ## Purpose
-Webadress [Eart To Mars](https://stojj2.github.io/Portfolio-Project-1/)
+Web Address [Eart To Mars](https://stojj2.github.io/Portfolio-Project-1/)
 
 Earth To Mars is a website that aims to spread information about humanity's progress towards becoming multiplanetary. Most likely planet candidate today is Mars. This website will describe problems that exist today with living on a planet other than Earth and also have a newsletter that sends out exciting news about what is happening on Mars.
 
