@@ -10,7 +10,7 @@
 body {
     display: flex;
     flex-direction: column;
-    padding: 1%;
+    padding: 30px;
     align-items: center;
     font-family: 'Orbitron', sans-serif;
     color: black;
@@ -76,5 +76,12 @@ nav {
 
 #biggest-challenges {
     padding-top: 100px;
+    background-color: blue;
 
 }
+
+#biggest-challenges div {
+    background-color: white;
+}
+
+
