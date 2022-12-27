@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;800&family=Russo+One&display=swap');
 
+/*Body*/
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+
+}
 
 /* Header and nav bar*/
 
@@ -51,3 +58,16 @@ header>nav a:hover {
 }
 
 /* Biggest Challenges section */
+
+#biggest-challenges {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#biggest-challenges>div {
+    margin: 3px;
+    padding: 3px;
+    background-color: aqua;
+    border: 1px solid grey;
+}
