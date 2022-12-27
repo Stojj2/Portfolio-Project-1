@@ -7,8 +7,8 @@ Earth To Mars is a website that aims to spread information about humanity's prog
 
 ## User Stories
 
-- When looking for information on the website, I would like some navigation bar
-- When browsing the site thrue a phone i want it to be easy to read
+- As a visiting user, I want a easy to understand navigation bar
+- As a visiting user, I want the website to be readable on small screens, for example a phone
 - As a visiting user, I would like to have a newsletter on Mars activities
 
 ## Features
