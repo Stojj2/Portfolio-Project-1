@@ -63,6 +63,7 @@ header>nav a:hover {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    margin-top: 110px;
 }
 
 #biggest-challenges>div {
