@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;800&family=Russo+One&display=swap');
 
 /*Body*/
+
 body {
     display: flex;
     flex-direction: column;
@@ -21,6 +22,9 @@ header {
     z-index: 2;
 }
 
+#logo {
+    opacity: 0.7;
+}
 header>a {
     display: flex;
     flex-direction: row;
@@ -120,7 +124,7 @@ header>nav a:hover {
     margin: 20px;
     padding: 10px;
     letter-spacing: 1px;
-    background-color:rgba(192, 113, 97, 0.7);
+    background-color: rgba(192, 113, 97, 0.7);
     border-radius: 25px;
 }
 
@@ -132,32 +136,57 @@ header>nav a:hover {
     text-align: left;
     padding-left: 10%;
 }
+
 /* Sign Up section */
 
 
 #sign-up {
     font-family: 'Orbitron', sans-serif;
     font-size: 11px;
-    background-color: #6B81C3;
+    background: url('../images/mars-rover.jpeg') no-repeat center center;
+    background-size: cover;
+    
 }
 
 #sign-up>div {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
     text-align: center;
     margin: 3px;
+    margin-bottom: 20%;
     letter-spacing: 1px;
 }
+
 #sign-up h2 {
     letter-spacing: 9px;
+    opacity: 0.5;
 }
 
 #sign-up h4 {
     margin-top: -10px;
 }
 
+#sign-up form {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(226, 208, 177, 0.7);
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    width: 70%;
+    align-items: center;
+}
 
+.text-input {
+    opacity: 0.5;
+    width: 70%;
+    justify-content: center;
+}
+
+.join-button {
+    width: 50%;
+    font-size: 20px;
+    margin: 5%;
+    font-family: 'Orbitron', sans-serif;
+}
 
 /* Footer section */
 
@@ -167,7 +196,7 @@ footer {
     font-family: 'Orbitron', sans-serif;
     font-size: 12px;
     background-color: #ffffff;
-    line-height: 30px;
+    line-height: 20px;
     position: fixed;
     bottom: 0;
     width: 100%;
