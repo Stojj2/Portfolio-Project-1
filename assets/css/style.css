@@ -120,8 +120,7 @@ header>nav a:hover {
     margin: 20px;
     padding: 10px;
     letter-spacing: 1px;
-    background-color: #C07161;
-    opacity: 0.9;
+    background-color:rgba(192, 113, 97, 0.7);
     border-radius: 25px;
 }
 
@@ -156,6 +155,9 @@ footer {
     font-size: 12px;
     background-color: #ffffff;
     line-height: 30px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 .social-media {
@@ -166,4 +168,5 @@ footer {
     padding: 0;
     letter-spacing: 1px;
     list-style-type: none;
+    font-size: 9px;
 }
