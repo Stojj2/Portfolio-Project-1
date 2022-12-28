@@ -228,6 +228,7 @@ footer {
     #biggest-challenges {
         flex-direction: row;
         height: 600px;
+        font-size: 15px;
     }
 
     #biggest-challenges>div {
@@ -237,7 +238,9 @@ footer {
         margin: 100px 20px 30px;
     }
 
-    #going-to-mars {}
+    #going-to-mars {
+        font-size: 15px;
+    }
 
     #going-to-mars>div {
         display: flex;
@@ -258,4 +261,14 @@ footer {
         flex-basis: content;
         width: 50%;
     }
+
+    #sign-up {
+        font-size: 15px;
+    }
+
+    #sign-up form {
+        width: 50%;
+    }
+
+
 }
