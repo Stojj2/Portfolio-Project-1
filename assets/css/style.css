@@ -115,16 +115,16 @@ header>nav a:hover {
 
 
 #sign-up {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    text-align: center;
     font-family: 'Orbitron', sans-serif;
-    font-size: 12px;
+    font-size: 11px;
     background-color: #C07161;
 }
 
 #sign-up>div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
     margin: 3px;
     letter-spacing: 1px;
 }
@@ -139,6 +139,7 @@ footer {
     font-family: 'Orbitron', sans-serif;
     font-size: 12px;
     background-color: #ffffff;
+    line-height: 30px;
 }
 
 .social-media {
@@ -146,6 +147,7 @@ footer {
     flex-direction: row;
     justify-content: space-evenly;
     margin: 3px;
+    padding: 0;
     letter-spacing: 1px;
     list-style-type: none;
 }
