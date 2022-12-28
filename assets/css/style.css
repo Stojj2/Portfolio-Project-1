@@ -6,7 +6,6 @@ body {
     display: flex;
     flex-direction: column;
     margin: 0;
-
 }
 
 /* Header and nav bar*/
@@ -37,7 +36,6 @@ header>a {
     letter-spacing: 8px;
     line-height: 0;
     font-size: 10px;
-
 }
 
 header>nav ul {
@@ -46,14 +44,12 @@ header>nav ul {
     justify-content: space-around;
     list-style-type: none;
     padding: 0%;
-    margin-top: 10px;
-
-
+    margin-top: 8px;
 }
 
 header>nav {
     border-bottom: 2px solid grey;
-    height: 45px;
+    height: 32px;
 
 
 }
@@ -85,7 +81,6 @@ header>nav a:hover {
 #biggest-challenges>div {
     padding: 30px;
     letter-spacing: 2px;
-
 }
 
 #biggest-challenges h2 {
@@ -243,10 +238,9 @@ footer {
         margin: 100px 20px 30px;
     }
 
-    #going-to-mars {
-    }
+    #going-to-mars {}
 
-    #going-to-mars > div {
+    #going-to-mars>div {
         display: flex;
         flex-direction: row;
     }
@@ -254,6 +248,6 @@ footer {
 
 
 
-    
+
 
 }
