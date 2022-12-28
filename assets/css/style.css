@@ -81,10 +81,6 @@ header>nav a:hover {
     letter-spacing: 3px;
 }
 
-#biggest-challenges p {
-    text-align: left;
-}
-
 #biggest-challenges h2 {
     letter-spacing: 4px;
 }
@@ -136,7 +132,6 @@ header>nav a:hover {
 
 .text-left {
     text-align: left;
-    padding-left: 10%;
 }
 
 .video {
