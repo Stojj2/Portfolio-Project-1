@@ -79,7 +79,7 @@ header>nav a:hover {
 }
 
 #biggest-challenges>div {
-    padding: 30px;
+    padding: 10px;
     letter-spacing: 2px;
 }
 
@@ -138,6 +138,10 @@ header>nav a:hover {
     padding-left: 10%;
 }
 
+.video {
+    width: 95%;
+    height: 50%;
+}
 /* Sign Up section */
 
 
@@ -232,7 +236,7 @@ footer {
     }
 
     #biggest-challenges>div {
-        width: 20%;
+        width: 30%;
         border-radius: 10px;
         margin: 15px;
         margin: 100px 20px 30px;
@@ -242,12 +246,21 @@ footer {
 
     #going-to-mars>div {
         display: flex;
-        flex-direction: row;
+        flex-wrap: wrap;
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
     }
 
+    #going-to-mars>div>div {
+        width: 40%;
+        height: 20%;
+    }
 
-
-
-
-
+    .when-why-data {
+        display: flex;
+        flex-direction: column;
+        flex-basis: content;
+        width: 50%;
+    }
 }
