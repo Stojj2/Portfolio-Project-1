@@ -154,7 +154,7 @@ header>nav a:hover {
 }
 
 #sign-up h4 {
-
+    margin-top: -10px;
 }
 
 
@@ -181,5 +181,9 @@ footer {
     padding: 0;
     letter-spacing: 1px;
     list-style-type: none;
-    font-size: 9px;
+    font-size: 20px;
+}
+
+.social-media a {
+    color: black;
 }
