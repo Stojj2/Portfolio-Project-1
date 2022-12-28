@@ -12,7 +12,7 @@ body {
 /* Header and nav bar*/
 
 header {
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.95);
     display: flex;
     flex-direction: column;
     position: fixed;
@@ -72,7 +72,6 @@ header>nav a:hover {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    margin-top: 73px;
     text-align: center;
     font-family: 'Orbitron', sans-serif;
     font-size: 12px;
@@ -92,6 +91,7 @@ header>nav a:hover {
 
 #radiation {
     background-color: rgba(226, 208, 177, 0.7);
+    margin-top: 73px;
 }
 
 #atmosphere {
@@ -131,6 +131,8 @@ header>nav a:hover {
 
 #going-to-mars h2 {
     letter-spacing: 9px;
+    position: relative;
+    margin-top: 80px;
 }
 
 .text-left {
@@ -219,4 +221,28 @@ footer {
 
 .social-media a {
     color: black;
+}
+
+
+
+/* for medium screen sizes from 950px wide and down */
+@media screen and (min-width: 900px) {
+
+    #biggest-challenges {
+        flex-direction: row;
+        height: 600px;
+    }
+
+    #biggest-challenges>div {
+    width: 20%;
+    border-radius: 10px;
+    margin: 15px;
+    margin: 100px 20px 30px;
+    }
+
+
+
+
+
+
 }
