@@ -82,7 +82,7 @@ header>nav a:hover {
 }
 
 #biggest-challenges h2 {
-    letter-spacing: 6px;
+    letter-spacing: 4px;
 }
 
 #radiation {
@@ -124,6 +124,9 @@ header>nav a:hover {
     border-radius: 25px;
 }
 
+#going-to-mars h2 {
+    letter-spacing: 9px;
+}
 
 
 /* Sign Up section */
