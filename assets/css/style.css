@@ -128,7 +128,10 @@ header>nav a:hover {
     letter-spacing: 9px;
 }
 
-
+.text-left {
+    text-align: left;
+    padding-left: 10%;
+}
 /* Sign Up section */
 
 
@@ -145,6 +148,13 @@ header>nav a:hover {
     text-align: center;
     margin: 3px;
     letter-spacing: 1px;
+}
+#sign-up h2 {
+    letter-spacing: 9px;
+}
+
+#sign-up h4 {
+
 }
 
 
