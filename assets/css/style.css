@@ -71,6 +71,8 @@ header>nav a:hover {
     text-align: center;
     font-family: 'Orbitron', sans-serif;
     font-size: 12px;
+    background: url('../images/mars-planet.avif') no-repeat center center;
+    background-size: cover;
 }
 
 #biggest-challenges>div {
@@ -84,15 +86,15 @@ header>nav a:hover {
 }
 
 #radiation {
-    background-color: #E2D0B1;
+    background-color: rgba(226, 208, 177, 0.7);
 }
 
 #atmosphere {
-    background-color: #C07161;
+    background-color: rgba(192, 113, 97, 0.7);
 }
 
 #water {
-    background-color: #6B81C3;
+    background-color: rgba(107, 129, 195, 0.7);
 }
 
 
@@ -105,7 +107,8 @@ header>nav a:hover {
     text-align: center;
     font-family: 'Orbitron', sans-serif;
     font-size: 12px;
-    background: url('../images/mars-land.jpeg') no-repeat center center;
+    background: url('../images/mars-land_2.avif') no-repeat center center;
+    background-size: cover;
 }
 
 #going-to-mars>div {
