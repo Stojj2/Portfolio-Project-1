@@ -48,8 +48,6 @@ header>nav ul {
 header>nav {
     border-bottom: 2px solid grey;
     height: 32px;
-
-
 }
 
 header>nav a {
@@ -60,7 +58,6 @@ header>nav a {
 
 header>nav a:hover {
     font-weight: 800;
-
 }
 
 /* Biggest Challenges section */
@@ -112,10 +109,6 @@ header>nav a:hover {
     background-size: cover;
 }
 
-#going-to-mars>div {
-    margin: 3px;
-}
-
 #going-to-mars>div>div {
     margin: 20px;
     padding: 10px;
@@ -140,7 +133,6 @@ header>nav a:hover {
 }
 
 /* Sign Up section */
-
 
 #sign-up {
     font-family: 'Orbitron', sans-serif;
@@ -196,9 +188,8 @@ footer {
     justify-content: space-around;
     text-align: center;
     font-family: 'Orbitron', sans-serif;
-    font-size: 12px;
-    background-color: #ffffff;
-    line-height: 20px;
+    background-color: rgba(255, 255, 255, 0.95);
+    line-height: 30px;
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -210,18 +201,16 @@ footer {
     justify-content: space-evenly;
     margin: 3px;
     padding: 0;
-    letter-spacing: 1px;
     list-style-type: none;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .social-media a {
-    color: black;
+    color: rgba(0, 0, 0, 0.8);
 }
 
+/* for medium screen sizes from 9px wide and down */
 
-
-/* for medium screen sizes from 950px wide and down */
 @media screen and (min-width: 900px) {
 
     #biggest-challenges {
@@ -268,6 +257,4 @@ footer {
     #sign-up form {
         width: 50%;
     }
-
-
 }
