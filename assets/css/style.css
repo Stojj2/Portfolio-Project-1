@@ -125,11 +125,7 @@ header>nav a:hover {
 
 .text-left {
     text-align: left;
-}
-
-.video {
-    width: 95%;
-    height: 50%;
+    list-style-type: disclosure-closed;
 }
 
 /* Sign Up section */
