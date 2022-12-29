@@ -5,8 +5,7 @@ Web Address [Eart To Mars](https://stojj2.github.io/Portfolio-Project-1/)
 ![Am I Responsive](docs/responsive.png)
 
 ## **Purpose** 
-
-Earth To Mars is a website that aims to spread information about humanity's progress towards becoming multiplanetary. Most likely planet candidate today is Mars. This website will describe problems that exist today with living on a planet other than Earth and also have a newsletter that sends out exciting news about what is happening on Mars.
+Earth To Mars is a website that aims to spread information about humanity's progress towards becoming multiplanetary. Most likely planet candidate today is Mars.<br><br> This website will describe problems that exist today with living on a planet other than Earth and also have a newsletter that sends out exciting news about what is happening on Mars.
 
 ## **User Stories** 
 
@@ -17,27 +16,41 @@ Earth To Mars is a website that aims to spread information about humanity's prog
 ## **Features** 
 
 - ### Navigation bar 
-  - Navigation bar that will help the user navigate to different sections of the page
-  - Navigation bar will always be vissible
+  ![Navigation bar](docs/navbar.png)
+  - Navigation bar that will help the user navigate to different sections of the page,<br> navigation bar includes Eart To Mars header
+  - Navigation bar is always visible
   - The buttons on the navigation bar will be highlighted when hovered on
 
 - ### Biggest challenges 
+   ![Biggest challenges](docs/biggest-challenges.png)
    - Three informative boxes with the biggest challenges of populating a new world
+   - Each box have a transparent color for text to be more readable and the background still visible through them
    
 - ### Going To Mars 
-   - Section with picture and video
-   - Information about today's Mars-missions
-  
+   ![Going to mars](docs/going-to-mars.png)
+   - Section with picture and information about Mars and why we aim for that specific planet
+   - Going to Mars section is divided into three separate fields of text for making the information easier to read. Each textfield have a transparent background for readability
+
 - ### Footer 
-  - Footer section will have clickable icons that take the user to different social media pages
-  - Footer section will always be vissible
+  ![Footer](docs/footer.png)
+  - Footer section will have clickable icons that take the user to social media pages
+  - Footer section will always be visible
 
 - ### Newsletter 
-  - Newsletter sign up form.
-  - Signup form will register a user for newsletter
-
+  ![Newsletter](docs/sign-up.png)
+  - The newsletter sign up form is designed to make it easy to se where information needs to be written in
+  - Signup form will navigate the user to a confirm page when all information is riled in and the "Launch" button is pressed
+    
 - ### Responsive Design 
+  - 
+    ![Footer](docs/biggest-challenges-phone.png)
+    ![Footer](docs/going-to-mars-phone.png)
+    ![Footer](docs/sign-up-phone.png)
+    ![Footer](docs/confirmation-phone.png)
   - Entire web page is responsive and will work on resolutions used by Pc, tablet and phone
+
+- ### Confirmation page
+  ![Footer](docs/confirmation.html.png)
 
 ## **Future Features** 
 - Ranking list of which private company invests the most in Mars missions
@@ -52,24 +65,24 @@ Earth To Mars is a website that aims to spread information about humanity's prog
 
   - ### Homepage 
   
-    - ![Homepage Wireframe](docs/Earth-To-Mars.png?raw=)
-    - ![Homepage Wireframe](docs/Earth-To-Mars_Phone.png?raw=)
+    ![Homepage Wireframe](docs/Earth-To-Mars.png)
+    ![Homepage Wireframe](docs/Earth-To-Mars_Phone.png)
 
 
 
   - ### Going To Mars 
-    - ![Homepage Wireframe](docs/Going-To-Mars.png?raw=)
+    ![Homepage Wireframe](docs/Going-To-Mars.png)
 
 
 
   - ### Signup 
-    - ![Homepage Wireframe](docs/Signup.png?raw=)
+    ![Homepage Wireframe](docs/Signup.png)
 
 ## **Testing** 
 
 ### Code validation 
 - #### W3C HTML Validator 
-    - [index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fstojj2.github.io%2FPortfolio-Project-1%2Findex.html)
+    - [index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fstojj2.github.io%2FPortfolio-Project-1%2Findex.html) 
     - [confirmation.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fstojj2.github.io%2FPortfolio-Project-1%2Fconfirmation.html)
   
 - #### W3C CSS Validator 
