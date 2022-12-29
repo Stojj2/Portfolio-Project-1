@@ -6,6 +6,7 @@ body {
     display: flex;
     flex-direction: column;
     margin: 0;
+    font-family: 'Orbitron', sans-serif;
 }
 
 /* Header and nav bar*/
@@ -227,7 +228,7 @@ footer {
     border-radius: 30px;
     margin-bottom: 600px;
     font-family: 'Orbitron', sans-serif;
-    font-size: 12px;
+    font-size: 18px;
 }
 
 .hide {
