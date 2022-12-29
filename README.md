@@ -1,7 +1,10 @@
 # Earth To Mars
 
-## Purpose
 Web Address [Eart To Mars](https://stojj2.github.io/Portfolio-Project-1/)
+
+![Am I Responsive](docs/responsive.png)
+
+## Purpose
 
 Earth To Mars is a website that aims to spread information about humanity's progress towards becoming multiplanetary. Most likely planet candidate today is Mars. This website will describe problems that exist today with living on a planet other than Earth and also have a newsletter that sends out exciting news about what is happening on Mars.
 
@@ -67,15 +70,6 @@ Earth To Mars is a website that aims to spread information about humanity's prog
      - Add white color to header section and adding padding-top to biggest challenges section in style.css file
 
 
-
-
-## Credit
-
-  - Tracy Staedter for her Mars Exploration [article](https://now.northropgrumman.com/mars-exploration-3-problems-science-needs-to-solve-first/)
-  - SpaceX for [information](https://www.spacex.com/human-spaceflight/mars/)
-  - Marca:s Elon Musk [interview](https://www.marca.com/en/lifestyle/us-news/2022/03/19/6236048cca474106568b456d.html)
-
-
 ## Code Validation
 
   - W3C HTML Validator
@@ -87,3 +81,11 @@ Earth To Mars is a website that aims to spread information about humanity's prog
 
   - Lighthouse
     - asd
+
+## Credit
+
+  - Tracy Staedter for her Mars Exploration [article](https://now.northropgrumman.com/mars-exploration-3-problems-science-needs-to-solve-first/)
+  - SpaceX for [information](https://www.spacex.com/human-spaceflight/mars/)
+  - Marca:s Elon Musk [interview](https://www.marca.com/en/lifestyle/us-news/2022/03/19/6236048cca474106568b456d.html)
+
+
