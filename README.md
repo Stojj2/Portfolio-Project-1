@@ -39,7 +39,7 @@ Earth To Mars is a website that aims to spread information about humanity's prog
 - ### Newsletter 
   ![Newsletter](docs/sign-up.png)
   - The newsletter sign up form is designed to make it easy to se where information needs to be written in
-  - Signup form will navigate the user to a confirm page when all information is riled in and the "Launch" button is pressed
+  - Signup form will navigate the user to a confirm page when all information is filled in and the "Launch" button is pressed
 
 - ### Confirmation page
   ![Footer](docs/confirmation.html.png) 
