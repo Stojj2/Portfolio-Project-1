@@ -40,17 +40,17 @@ Earth To Mars is a website that aims to spread information about humanity's prog
   ![Newsletter](docs/sign-up.png)
   - The newsletter sign up form is designed to make it easy to se where information needs to be written in
   - Signup form will navigate the user to a confirm page when all information is riled in and the "Launch" button is pressed
-    
-- ### Responsive Design 
-  - 
-    ![Footer](docs/biggest-challenges-phone.png)
-    ![Footer](docs/going-to-mars-phone.png)
-    ![Footer](docs/sign-up-phone.png)
-    ![Footer](docs/confirmation-phone.png)
-  - Entire web page is responsive and will work on resolutions used by Pc, tablet and phone
 
 - ### Confirmation page
-  ![Footer](docs/confirmation.html.png)
+  ![Footer](docs/confirmation.html.png) 
+
+- ### Responsive Design 
+![Footer](docs/biggest-challenges-phone_small.png)
+![Footer](docs/going-to-mars-phone_small.png)
+<br><br>
+![Footer](docs/sign-up-phone_small.png)
+![Footer](docs/confirmation-phone_small.png)
+  - Entire web page is responsive and will work on resolutions used by Pc, tablet and phone
 
 ## **Future Features** 
 - Ranking list of which private company invests the most in Mars missions
