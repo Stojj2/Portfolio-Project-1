@@ -74,7 +74,7 @@ header>nav a:hover {
 
 #biggest-challenges>div {
     padding: 10px;
-    letter-spacing: 3px;
+    letter-spacing: 1px;
 }
 
 #biggest-challenges h2 {
@@ -235,7 +235,7 @@ footer {
     #biggest-challenges {
         flex-direction: row;
         height: 600px;
-        font-size: 14px;
+        font-size: 13px;
     }
 
     #biggest-challenges>div {
