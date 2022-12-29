@@ -49,18 +49,18 @@ Earth To Mars is a website that aims to spread information about humanity's prog
 
   - Homepage
   
-    - ![Homepage Wireframe](https://github.com/Stojj2/Portfolio-Project-1/blob/main/media/Earth-To-Mars.png?raw=)
-     ![Homepage Wireframe](https://github.com/Stojj2/Portfolio-Project-1/blob/main/media/Earth-To-Mars_Phone.png?raw=)
+    - ![Homepage Wireframe](https://github.com/Stojj2/Portfolio-Project-1/blob/main/docs/Earth-To-Mars.png?raw=)
+     ![Homepage Wireframe](https://github.com/Stojj2/Portfolio-Project-1/blob/main/docs/Earth-To-Mars_Phone.png?raw=)
 
 
 
   - Going To Mars
-    - ![Homepage Wireframe](https://github.com/Stojj2/Portfolio-Project-1/blob/main/media/Going-To-Mars.png?raw=)
+    - ![Homepage Wireframe](https://github.com/Stojj2/Portfolio-Project-1/blob/main/docs/Going-To-Mars.png?raw=)
 
 
 
   - Signup
-    - ![Homepage Wireframe](https://github.com/Stojj2/Portfolio-Project-1/blob/main/media/Signup.png?raw=)
+    - ![Homepage Wireframe](https://github.com/Stojj2/Portfolio-Project-1/blob/main/docs/Signup.png?raw=)
 
 ## Bugs
   - Biggest challenges section was vissible behind the nav bar.
