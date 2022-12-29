@@ -63,7 +63,7 @@ Earth To Mars is a website that aims to spread information about humanity's prog
     - ![Homepage Wireframe](https://github.com/Stojj2/Portfolio-Project-1/blob/main/docs/Signup.png?raw=)
 
 ## Bugs
-  - Biggest challenges section was vissible behind the nav bar.
+  - Biggest challenges section was visible behind the nav bar.
      - Add white color to header section and adding padding-top to biggest challenges section in style.css file
 
 

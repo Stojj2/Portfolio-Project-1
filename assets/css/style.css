@@ -135,7 +135,6 @@ header>nav a:hover {
     font-size: 11px;
     background: url('../images/mars-rover.jpeg') no-repeat center center;
     background-size: cover;
-
 }
 
 #sign-up>div {
@@ -229,13 +228,13 @@ footer {
     margin-bottom: 600px;
     font-family: 'Orbitron', sans-serif;
     font-size: 12px;
-
 }
 
 .hide {
     visibility: hidden;
 }
-/* for medium screen sizes from 9px wide and down */
+
+/* for medium screen sizes from 900px wide and down */
 
 @media screen and (min-width: 900px) {
 
