@@ -225,9 +225,7 @@ footer {
     background-color: rgba(255, 255, 255, 0.5);
     justify-content: center;
     align-items: center;
-    flex-wrap: nowrap;
     border-radius: 30px;
-    flex-direction: column;
     margin-bottom: 600px;
 }
 
