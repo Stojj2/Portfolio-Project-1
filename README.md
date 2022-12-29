@@ -120,4 +120,3 @@ The live link can be found here - https://stojj2.github.io/Portfolio-Project-1/i
   - Very Much inspiration came from Code Institutes [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode) project. The HTML code was in great help for implementing the sign-up form in this website
 
   - Code Institute student [template](https://github.com/Code-Institute-Org/gitpod-full-template) for Gitpod was used for this project
-[Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode)
