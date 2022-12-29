@@ -45,11 +45,11 @@ Earth To Mars is a website that aims to spread information about humanity's prog
   ![Footer](docs/confirmation.html.png) 
 
 - ### Responsive Design 
-![Footer](docs/biggest-challenges-phone_small.png)
-![Footer](docs/going-to-mars-phone_small.png)
-<br><br>
-![Footer](docs/sign-up-phone_small.png)
-![Footer](docs/confirmation-phone_small.png)
+  ![Footer](docs/biggest-challenges-phone_small.png)
+  ![Footer](docs/going-to-mars-phone_small.png)
+  <br><br>
+  ![Footer](docs/sign-up-phone_small.png)
+  ![Footer](docs/confirmation-phone_small.png)
   - Entire web page is responsive and will work on resolutions used by Pc, tablet and phone
 
 ## **Future Features** 
@@ -60,23 +60,17 @@ Earth To Mars is a website that aims to spread information about humanity's prog
 ## **Fonts and color** 
 - Webpage will use three colors F4F1F1, 8B8399 and 5C7AAD. Most text will be black
 
-- Font for the entire webpage is Orbitron
+- Font for the entire webpage is [Orbitron](https://fonts.google.com/specimen/Orbitron)
 ## **Wireframe** 
 
   - ### Homepage 
-  
-    ![Homepage Wireframe](docs/Earth-To-Mars.png)
-    ![Homepage Wireframe](docs/Earth-To-Mars_Phone.png)
-
-
-
+    ![Homepage Wireframe](docs/erth-to-mars_small.png)
   - ### Going To Mars 
-    ![Homepage Wireframe](docs/Going-To-Mars.png)
-
-
-
+    ![Homepage Wireframe](docs/going-to-mars_small.png)
   - ### Signup 
-    ![Homepage Wireframe](docs/Signup.png)
+    ![Homepage Wireframe](docs/signup_small.png)
+  - ### Phone
+    ![Homepage Wireframe](docs/wireframe-phone.png)
 
 ## **Testing** 
 
@@ -97,12 +91,33 @@ Earth To Mars is a website that aims to spread information about humanity's prog
 ### Test cases 
 
 ### Fixed bugs 
+  - W3C validator indicate on one error in HTML code for index.html
+   ![Validator](docs/W3C-validator-fixed-small.png)
+     - The error where corrected and W3C did completed with no errors in the index.html file
+  -  
   
-### supported screens and browsers
+## **Deployment**
 
-## **Credit**   
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+- In the GitHub repository, navigate to the Settings tab
+- From the source section drop-down menu, select the Master Branch
+- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display - to indicate the successful deployment.
+The live link can be found here - https://stojj2.github.io/Portfolio-Project-1/index.html
 
+## **Credit**
+
+  ### Content
   - Tracy Staedter for her Mars Exploration [article](https://now.northropgrumman.com/mars-exploration-3-problems-science-needs-to-solve-first/)
   - SpaceX for [information](https://www.spacex.com/human-spaceflight/mars/)
   - Marca:s Elon Musk [interview](https://www.marca.com/en/lifestyle/us-news/2022/03/19/6236048cca474106568b456d.html)
+  ### Media
+ - Pictures from [Unsplash](https://unsplash.com/) where used on this website
+ - Pictures from [Pexel](https://www.pexels.com/sv-se/) where used on this website
+ - On this website icons from [Fontawesome](https://fontawesome.com/start) where used
+ - Font [Orbitron](https://fonts.google.com/specimen/Orbitron) is from Google fonts
 
+  ### Other
+  - Very Much inspiration came from Code Institutes [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode) project. The HTML code was in great help for implementing the sign-up form in this website
+
+  - Code Institute student [template](https://github.com/Code-Institute-Org/gitpod-full-template) for Gitpod was used for this project
+[Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode)
