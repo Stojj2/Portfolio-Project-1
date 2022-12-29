@@ -214,7 +214,6 @@ footer {
 #confirmation {
     background: url('../images/mars-2.avif') no-repeat center center;
     background-size: cover;
-    background-color: aqua;
     width: 100%;
     height: 78em;
     display: flex;
