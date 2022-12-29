@@ -9,6 +9,7 @@ body {
     font-family: 'Orbitron', sans-serif;
 }
 
+
 /* Header and nav bar*/
 
 header {
@@ -29,7 +30,6 @@ header>a {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    font-family: 'Orbitron', sans-serif;
     color: black;
     text-decoration: none;
     letter-spacing: 8px;
@@ -52,7 +52,6 @@ header>nav {
 }
 
 header>nav a {
-    font-family: 'Orbitron', sans-serif;
     color: black;
     text-decoration: none;
 }
@@ -68,7 +67,6 @@ header>nav a:hover {
     flex-direction: column;
     justify-content: space-around;
     text-align: center;
-    font-family: 'Orbitron', sans-serif;
     font-size: 12px;
     background: url('../images/mars-planet.avif') no-repeat center center;
     background-size: cover;
@@ -104,7 +102,6 @@ header>nav a:hover {
     flex-direction: column;
     justify-content: space-around;
     text-align: center;
-    font-family: 'Orbitron', sans-serif;
     font-size: 12px;
     background: url('../images/mars-land_2.avif') no-repeat center center;
     background-size: cover;
@@ -132,7 +129,6 @@ header>nav a:hover {
 /* Sign Up section */
 
 #sign-up {
-    font-family: 'Orbitron', sans-serif;
     font-size: 11px;
     background: url('../images/mars-rover.jpeg') no-repeat center center;
     background-size: cover;
@@ -175,7 +171,6 @@ header>nav a:hover {
     width: 50%;
     font-size: 20px;
     margin: 5%;
-    font-family: 'Orbitron', sans-serif;
 }
 
 /* Footer section */
@@ -183,7 +178,6 @@ header>nav a:hover {
 footer {
     justify-content: space-around;
     text-align: center;
-    font-family: 'Orbitron', sans-serif;
     background-color: rgba(255, 255, 255, 0.95);
     line-height: 30px;
     position: fixed;
@@ -227,7 +221,6 @@ footer {
     align-items: center;
     border-radius: 30px;
     margin-bottom: 600px;
-    font-family: 'Orbitron', sans-serif;
     font-size: 18px;
 }
 
@@ -242,18 +235,18 @@ footer {
     #biggest-challenges {
         flex-direction: row;
         height: 600px;
-        font-size: 15px;
+        font-size: 14px;
     }
 
     #biggest-challenges>div {
         width: 30%;
         border-radius: 10px;
-        margin: 15px;
+        margin: 14px;
         margin: 100px 20px 30px;
     }
 
     #going-to-mars {
-        font-size: 15px;
+        font-size: 14px;
     }
 
     #going-to-mars>div {
@@ -277,7 +270,7 @@ footer {
     }
 
     #sign-up {
-        font-size: 15px;
+        font-size: 14px;
     }
 
     #sign-up form {
