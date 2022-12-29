@@ -227,6 +227,9 @@ footer {
     align-items: center;
     border-radius: 30px;
     margin-bottom: 600px;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 12px;
+
 }
 
 .hide {
