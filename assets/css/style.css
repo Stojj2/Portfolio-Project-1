@@ -128,8 +128,9 @@ header>nav a:hover {
 }
 
 .images {
-    margin: 5px;
+    margin: 0px;
     border-radius: 15px;
+    width: 70%;
 }
 
 
