@@ -98,13 +98,13 @@ Earth To Mars is a website that aims to spread information about humanity's prog
     ![index.html mobile](docs/Lighthouse-confirmation-mobile.png)
 ### Test cases 
    - **Navigation Bar**
-     1. Testing navigation bar buttons, mouse over function and that they are easy to navigate with
+     - Testing navigation bar buttons, mouse over function and that they are easy to navigate with
      
    - **Biggest challenges**
-     1. Testing text boxes responsiveness in different resolutions
+     - Testing text boxes responsiveness in different resolutions
      
    - **Going To Mars**'
-     1. Testing text boxes responsiveness in different resolutions
+     - Testing text boxes responsiveness in different resolutions
 
    - **Sign Up**
      - Testing that the Sign Up form will navigate to the confirmation.html after all information is filled in correct and the Launch button is pressed
