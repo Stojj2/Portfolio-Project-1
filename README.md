@@ -96,18 +96,17 @@ Earth To Mars is a website that aims to spread information about humanity's prog
     ![confirmation.html mobile](docs/Lighthouse-index-mobile.png)
     ![index.html mobile](docs/Lighthouse-confirmation-mobile.png)
 ### Test cases 
-   - Biggest challenges
+   - **Biggest challenges**
      - step-by-step
-   - Going To Mars
+   - **Going To Mars**
      - step-by-step
-   - Sign Up
+   - **Sign Up**
      - step-by-step
 
 ### Fixed bugs 
   - W3C validator indicate on one error in HTML code for index.html
    ![Validator](docs/W3C-validator-fixed-small.png)
-     - The error where corrected and W3C did completed with no errors in the index.html file
-  -  
+     - The error where corrected and W3C did completed with no errors in the index.html file  
 
 ## Technology 
   - **Balsamiq**
