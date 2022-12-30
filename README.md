@@ -82,17 +82,17 @@ Earth To Mars is a website that aims to spread information about humanity's prog
 ## **Testing** 
 
 ### Code validation 
-- #### W3C HTML Validator 
+- **W3C HTML Validator** 
     - [index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fstojj2.github.io%2FPortfolio-Project-1%2Findex.html) 
     - [confirmation.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fstojj2.github.io%2FPortfolio-Project-1%2Fconfirmation.html)
   
-- #### W3C CSS Validator 
+- **W3C CSS Validator** 
     - [style.css](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fstojj2.github.io%2FPortfolio-Project-1%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
-- #### Lighthouse desktop 
+- **Lighthouse desktop** 
     ![index.html desktop](docs/Lighthouse-index-desktop.png)
     ![confirmation.html desktop](/docs/Lighthouse-confirmation-desktop.png)
-- #### Lighthouse mobile 
+- **Lighthouse mobile** 
     ![confirmation.html mobile](docs/Lighthouse-index-mobile.png)
     ![index.html mobile](docs/Lighthouse-confirmation-mobile.png)
 ### Test cases 
