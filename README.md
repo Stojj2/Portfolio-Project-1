@@ -65,19 +65,18 @@ Earth To Mars is a website that aims to spread information about humanity's prog
 - Black and white
   - #fffffff2
   - #000000cc
-  
-- Black color will be used for most of the text
+    - Black color will be used for most of the text
 
 - The font for the entire webpage is [Orbitron](https://fonts.google.com/specimen/Orbitron)
 ## **Wireframe** 
 
-  - ### Homepage 
+  - **Homepage**  
     ![Homepage Wireframe](docs/erth-to-mars_small.png)
-  - ### Going To Mars 
+  - **Going To Mars**  
     ![Homepage Wireframe](docs/going-to-mars_small.png)
-  - ### Signup 
+  - **Signup**  
     ![Homepage Wireframe](docs/signup_small.png)
-  - ### Phone
+  - **Phone**  
     ![Homepage Wireframe](docs/wireframe-phone.png)
 
 ## **Testing** 
@@ -118,9 +117,9 @@ Earth To Mars is a website that aims to spread information about humanity's prog
   - **GitHub**
     - For storing the code GitHub where used
   - **GitHub Pages**
-    - GitHug pages where used for hosting the website
+    - GitHub pages where used for hosting the website
   - **Chrome DevTools**
-    - Chroms built in devtools where used for testing 
+    - Google chrom built in devtools where used for testing 
 
 ## Supported screens and browsers
   - For this web page different screen sizes were tested and no errors were found. This specific sizes were validated
@@ -130,13 +129,18 @@ Earth To Mars is a website that aims to spread information about humanity's prog
       - For this resolution the media query will style the website with new style  
 
 ## **Deployment**
-
+ ### GitHub Pages
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
 - In the GitHub repository, navigate to the Settings tab
 - From the source section drop-down menu, select the Master Branch
 - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display - to indicate the successful deployment.
 The live link can be found here - https://stojj2.github.io/Portfolio-Project-1/index.html
 
+ ### GitPod
+  - The site was coded using GitPod. The steps to deploy is as following:
+  - In the GitHub repository, press the green GitPod button for transfer the project to GitPod enviroment
+    - NOTE!
+      - [GitPod webbrowser plugin](https://chrome.google.com/webstore/detail/gitpod-always-ready-to-co/dodmmooeoklaejobgleioelladacbeki) needs to be installed to your browser to get this button. 
 ## **Credit**
 
   ### Content
