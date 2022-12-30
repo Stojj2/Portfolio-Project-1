@@ -127,12 +127,11 @@ header>nav a:hover {
     list-style-type: disclosure-closed;
 }
 
-.video {
-    width: 100%;
-    height: 200px;
+.images {
+    margin: 5px;
     border-radius: 15px;
-    border: none;
 }
+
 
 /* Sign Up section */
 
@@ -239,7 +238,7 @@ footer {
 
     #biggest-challenges {
         flex-direction: row;
-        height: 682px;
+        height: 860px;
         font-size: 13px;
     }
 
@@ -280,9 +279,5 @@ footer {
 
     #sign-up form {
         width: 50%;
-    }
-
-    .video {
-        height: 300px;
     }
 }
