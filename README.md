@@ -45,12 +45,9 @@ Earth To Mars is a website that aims to spread information about humanity's prog
   ![Footer](docs/confirmation.html.png) 
 
 - ### Responsive Design 
-  ![Footer](docs/biggest-challenges-phone_small.png)
-  ![Footer](docs/going-to-mars-phone_small.png)
-  <br><br>
-  ![Footer](docs/sign-up-phone_small.png)
-  ![Footer](docs/confirmation-phone_small.png)
-  - Entire web page is responsive and will work on resolutions used by Pc, tablet and phone
+  **phone**
+  ![Responsive design phone](docs/phone-all-pages.png)
+  ![Responsive design Ipad](docs/ipad.png)
 
 ## **Future Features** 
 - Ranking list of which private company invests the most in Mars missions
@@ -96,17 +93,28 @@ Earth To Mars is a website that aims to spread information about humanity's prog
     ![confirmation.html mobile](docs/Lighthouse-index-mobile.png)
     ![index.html mobile](docs/Lighthouse-confirmation-mobile.png)
 ### Test cases 
+   - **Navigation Bar**
+     1. Testing navigation bar buttons, mouse over function and that they are easy to navigate with
+     
    - **Biggest challenges**
-     - step-by-step
-   - **Going To Mars**
-     - step-by-step
+     1. Testing text boxes responsiveness in different resolutions
+     
+   - **Going To Mars**'
+     1. Testing text boxes responsiveness in different resolutions
+
    - **Sign Up**
-     - step-by-step
+     - Testing that the Sign Up form will navigate to the confirmation.html after all information is filled in and the Launch button is pressed
+     
+
+   - **Confirmation page**  
 
 ### Fixed bugs 
   - W3C validator indicate on one error in HTML code for index.html
    ![Validator](docs/W3C-validator-fixed-small.png)
      - The error where corrected and W3C did completed with no errors in the index.html file  
+
+### Unfixed bugs 
+   -  Apple's webbrowser Safari for phones do show a blue Launch button on Sign Up page
 
 ## Technology 
   - **Balsamiq**
@@ -119,14 +127,15 @@ Earth To Mars is a website that aims to spread information about humanity's prog
     - GitHub pages where used for hosting the website
   - **Chrome DevTools**
     - Google chrom built in devtools where used for testing 
+  - **Mobile FIRST**
+    - Mobile First Chrome extension where used for screenshots
 
 ## Supported screens and browsers
   - For this web page different screen sizes were tested and no errors were found. This specific sizes were validated
     - **Desktop** 1920×1080
+      - For this resolution the media query will style the website with new style
     - **Tablet** 768x1024
     - **Mobile** 360x640
-      - For this resolution the media query will style the website with new style  
-
 ## **Deployment**
  ### GitHub Pages
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
