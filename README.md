@@ -42,17 +42,19 @@ Earth To Mars is a website that aims to spread information about humanity's prog
   - Signup form will navigate the user to a confirm page when all information is filled in and the "Launch" button is pressed
 
 - ### Confirmation page
-  ![Footer](docs/confirmation.html.png) 
+  ![Confirmation page](docs/confirmation.html.png) 
+  - You will be navigated to this page when you sign up for newsletter to indicate that everything worked as it should
 
 - ### Responsive Design 
 
   **phone** 
 
   ![Responsive design phone](docs/phone-all-pages.png)
+
   **Tablet** 
 
   ![Responsive design Ipad](docs/ipad.png)
-
+  - The website is designed to be easy to read on a smaller screen size
 ## **Future Features** 
 - Ranking list of which private company invests the most in Mars missions
 
