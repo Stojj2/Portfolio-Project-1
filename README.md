@@ -58,7 +58,12 @@ Earth To Mars is a website that aims to spread information about humanity's prog
 
 
 ## **Fonts and color** 
-- Webpage will use three colors F4F1F1, 8B8399 and 5C7AAD. Most text will be black
+- Webpage will use four colors
+  - rgb 226, 208, 177
+  - rgb 192, 113, 97
+  - rgb 107, 129, 195
+  - rgb 0, 0, 0
+- Black color will be used for most of the text
 
 - Font for the entire webpage is [Orbitron](https://fonts.google.com/specimen/Orbitron)
 ## **Wireframe** 
