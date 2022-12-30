@@ -33,7 +33,7 @@ Earth To Mars is a website that aims to spread information about humanity's prog
 
 - ### Footer 
   ![Footer](docs/footer.png)
-  - Footer section will have clickable icons that take the user to social media pages
+  - Footer section have clickable icons that take the user to social media pages
   - Footer section will always be visible
 
 - ### Newsletter 
@@ -65,7 +65,7 @@ Earth To Mars is a website that aims to spread information about humanity's prog
   - rgb 0, 0, 0
 - Black color will be used for most of the text
 
-- Font for the entire webpage is [Orbitron](https://fonts.google.com/specimen/Orbitron)
+- The font for the entire webpage is [Orbitron](https://fonts.google.com/specimen/Orbitron)
 ## **Wireframe** 
 
   - ### Homepage 
