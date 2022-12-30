@@ -45,8 +45,12 @@ Earth To Mars is a website that aims to spread information about humanity's prog
   ![Footer](docs/confirmation.html.png) 
 
 - ### Responsive Design 
-  **phone**
+
+  **phone** 
+
   ![Responsive design phone](docs/phone-all-pages.png)
+  **Tablet** 
+
   ![Responsive design Ipad](docs/ipad.png)
 
 ## **Future Features** 
@@ -103,10 +107,20 @@ Earth To Mars is a website that aims to spread information about humanity's prog
      1. Testing text boxes responsiveness in different resolutions
 
    - **Sign Up**
-     - Testing that the Sign Up form will navigate to the confirmation.html after all information is filled in and the Launch button is pressed
-     
+     - Testing that the Sign Up form will navigate to the confirmation.html after all information is filled in correct and the Launch button is pressed
 
-   - **Confirmation page**  
+       - Picture is showing one error because the email address do not include a @
+       ![Email error](docs/sign-up-error.png)
+       - Picture is showing the right data filled in 
+       ![Email](docs/sign-up-no-error.png)
+       - Navigation works fine!
+       ![Confirmation page](docs/confirm-with-nav-and-footer.png)
+     
+   - **Testing the website on Apple's Safari browser**
+     - Error was found in Safari iphone browser, Launch button is blue
+     ![Safari phone blue launch button](docs/safari-phone.jpeg)
+     - Safari desktop browser does not show the same error
+     ![Safari desktop](docs/safari-desktop.png)
 
 ### Fixed bugs 
   - W3C validator indicate on one error in HTML code for index.html
