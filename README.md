@@ -58,11 +58,14 @@ Earth To Mars is a website that aims to spread information about humanity's prog
 
 
 ## **Fonts and color** 
-- Webpage will use four colors
-  - rgb 226, 208, 177
-  - rgb 192, 113, 97
-  - rgb 107, 129, 195
-  - rgb 0, 0, 0
+- Webpage will use three main colors
+  - #e2d0b1b3
+  - #c07161b3
+  - #6b81c3b3
+- Black and white
+  - #fffffff2
+  - #000000cc
+  
 - Black color will be used for most of the text
 
 - The font for the entire webpage is [Orbitron](https://fonts.google.com/specimen/Orbitron)
@@ -94,13 +97,38 @@ Earth To Mars is a website that aims to spread information about humanity's prog
     ![confirmation.html mobile](docs/Lighthouse-index-mobile.png)
     ![index.html mobile](docs/Lighthouse-confirmation-mobile.png)
 ### Test cases 
+   - Biggest challenges
+     - step-by-step
+   - Going To Mars
+     - step-by-step
+   - Sign Up
+     - step-by-step
 
 ### Fixed bugs 
   - W3C validator indicate on one error in HTML code for index.html
    ![Validator](docs/W3C-validator-fixed-small.png)
      - The error where corrected and W3C did completed with no errors in the index.html file
   -  
-  
+
+## Technology 
+  - **Balsamiq**
+    - Balsamiq Wireframes where used to draw wireframes for this project
+  - **GitPod**
+    - GitPod where used for writing all code 
+  - **GitHub**
+    - For storing the code GitHub where used
+  - **GitHub Pages**
+    - GitHug pages where used for hosting the website
+  - **Chrome DevTools**
+    - Chroms built in devtools where used for testing 
+
+## Supported screens and browsers
+  - For this web page different screen sizes were tested and no errors were found. This specific sizes were validated
+    - **Desktop** 1920×1080
+    - **Tablet** 768x1024
+    - **Mobile** 360x640
+      - For this resolution the media query will style the website with new style  
+
 ## **Deployment**
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
@@ -125,3 +153,4 @@ The live link can be found here - https://stojj2.github.io/Portfolio-Project-1/i
   - Very Much inspiration came from Code Institutes [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode) project. The HTML code was in great help for implementing the sign-up form in this website
 
   - Code Institute student [template](https://github.com/Code-Institute-Org/gitpod-full-template) for Gitpod was used for this project
+
