@@ -84,32 +84,41 @@ Earth To Mars is a website that aims to spread information about humanity's prog
 
 ## **Testing** 
 
-### Code validation 
-- **W3C HTML Validator** 
+### **Code validation**
+- W3C HTML Validator 
     - [index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fstojj2.github.io%2FPortfolio-Project-1%2Findex.html) 
     - [confirmation.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fstojj2.github.io%2FPortfolio-Project-1%2Fconfirmation.html)
   
-- **W3C CSS Validator** 
+- W3C CSS Validator 
     - [style.css](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fstojj2.github.io%2FPortfolio-Project-1%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
-- **Lighthouse desktop** 
+- Lighthouse desktop 
     ![index.html desktop](docs/Lighthouse-index-desktop.png)
     ![confirmation.html desktop](/docs/Lighthouse-confirmation-desktop.png)
-- **Lighthouse mobile** 
+- Lighthouse mobile 
     ![confirmation.html mobile](docs/Lighthouse-index-mobile.png)
     ![index.html mobile](docs/Lighthouse-confirmation-mobile.png)
-### Test cases 
-   - **Navigation Bar**
-     - Testing navigation bar buttons, mouse over function and that they are easy to navigate with
-     
-   - **Biggest challenges**
-     - Testing text boxes responsiveness in different resolutions
-     
-   - **Going To Mars**'
-     - Testing text boxes responsiveness in different resolutions
 
-   - **Sign Up**
-     - Testing that the Sign Up form will navigate to the confirmation.html after all information is filled in correct and the Launch button is pressed
+### **Test cases** 
+<br><br>
+
+  - **`As a visiting user, I would like to have one easy to use navigation bar`** 
+    - Navigation Bar
+      - Testing navigation bar buttons, mouse over function and that they are easy to navigate with. Navigation bar will always be visible all the time and this makes it realy easy to always find the navigation bar on the screen
+      ![index.html mobile](docs/navbar-follow.png)
+
+      <br><br>
+
+  - **`As a visiting user, I want the website to be readable on small screens, for example a phone`**
+    - Test responsiveness on small screen 
+
+      - Smalest resolution tested is 320x568 
+      ![iphone 5](docs/iphone5.png)
+      <br><br>
+
+  - **`As a visiting user, I would like to have a newsletter on Mars activities`**
+    - Sign Up
+      - Testing that the Sign Up form will navigate to the confirmation.html after all information is filled in correct and the Launch button is pressed
 
        - Picture is showing one error because the email address do not include a @
        ![Email error](docs/sign-up-error.png)
@@ -118,11 +127,16 @@ Earth To Mars is a website that aims to spread information about humanity's prog
        - Navigation works fine!
        ![Confirmation page](docs/confirm-with-nav-and-footer.png)
      
-   - **Testing the website on Apple's Safari browser**
-     - Error was found in Safari iphone browser, Launch button is blue
-     ![Safari phone blue launch button](docs/safari-phone.jpeg)
-     - Safari desktop browser does not show the same error
-     ![Safari desktop](docs/safari-desktop.png)
+   - **Testing the website on Apple's Safari browser** 
+
+  - Error was found in Safari iphone browser, Launch button is blue 
+
+    ![Safari phone blue launch button](docs/safari-phone.jpeg) 
+
+  - Safari desktop browser does not show the same error 
+
+    ![Safari desktop](docs/safari-desktop.png) 
+
 
 ### Fixed bugs 
   - W3C validator indicate on one error in HTML code for index.html
@@ -152,6 +166,8 @@ Earth To Mars is a website that aims to spread information about humanity's prog
       - For this resolution the media query will style the website with new style
     - **Tablet** 768x1024
     - **Mobile** 360x640
+  - Browsers 
+    - Google Chrom
 ## **Deployment**
  ### GitHub Pages
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
