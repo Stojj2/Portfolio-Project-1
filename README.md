@@ -1,9 +1,9 @@
 # **Earth To Mars** 
 
-Web Address [Eart To Mars](https://stojj2.github.io/Portfolio-Project-1/)
-
 ![Am I Responsive](docs/responsive.png)
 
+ **Visit [Eart To Mars](https://stojj2.github.io/Portfolio-Project-1/)**
+ 
 ## **Purpose** 
 Earth To Mars is a website that aims to spread information about humanity's progress towards becoming multiplanetary. Most likely planet candidate today is Mars.<br><br> This website will describe problems that exist today with living on a planet other than Earth and also have a newsletter that sends out exciting news about what is happening on Mars.
 
@@ -29,7 +29,7 @@ Earth To Mars is a website that aims to spread information about humanity's prog
 - ### Going To Mars 
    ![Going to mars](docs/going-to-mars.png)
    - Section with picture and information about Mars and why we aim for that specific planet
-   - Going to Mars section is divided into three separate fields of text for making the information easier to read. Each textfield have a transparent background for readability
+   - Going to Mars section is divided into four separate fields of text for making the information easier to read. Each textfield have a transparent background for readability
 
 - ### Footer 
   ![Footer](docs/footer.png)
