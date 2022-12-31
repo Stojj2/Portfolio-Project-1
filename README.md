@@ -3,7 +3,7 @@
 ![Am I Responsive](docs/responsive.png)
 
  **Visit [Eart To Mars](https://stojj2.github.io/Portfolio-Project-1/)**
- 
+
 ## **Purpose** 
 Earth To Mars is a website that aims to spread information about humanity's progress towards becoming multiplanetary. Most likely planet candidate today is Mars.<br><br> This website will describe problems that exist today with living on a planet other than Earth and also have a newsletter that sends out exciting news about what is happening on Mars.
 
@@ -197,4 +197,8 @@ The live link can be found here - https://stojj2.github.io/Portfolio-Project-1/i
   - Very Much inspiration came from Code Institutes [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode) project. The HTML code was in great help for implementing the sign-up form in this website
 
   - Code Institute student [template](https://github.com/Code-Institute-Org/gitpod-full-template) for Gitpod was used for this project
+
+  - Mentor **Rohit Sharma** helped me alot in this project for pointing my focus in the right direction
+  - Slack forum for support. Cred to *peer-code-review* channel on slack for reviewing and feedback my project
+
 
