@@ -127,15 +127,15 @@ Earth To Mars is a website that aims to spread information about humanity's prog
        - Navigation works fine!
        ![Confirmation page](docs/confirm-with-nav-and-footer.png)
      
-   - **Testing the website on Apple's Safari browser** 
+  - **Testing the website on Apple's Safari browser** 
 
-  - Error was found in Safari iphone browser, Launch button is blue 
+    - Error was found in Safari iphone browser, Launch button is blue 
+    
+      ![Safari phone blue launch button](docs/safari-phone.jpeg) 
 
-    ![Safari phone blue launch button](docs/safari-phone.jpeg) 
+    - Safari desktop browser does not show the same error 
 
-  - Safari desktop browser does not show the same error 
-
-    ![Safari desktop](docs/safari-desktop.png) 
+      ![Safari desktop](docs/safari-desktop.png) 
 
 
 ### Fixed bugs 
